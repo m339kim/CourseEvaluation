@@ -6,11 +6,17 @@ This website lets you develop a versatile course evaluation website applicable i
 
 ## Setup
 **IDE**: Eclipse EE
+
 **Language**: Java JDK 8u161
+
 **Database**: MySQL 5.7
+
 **Web container**: Tomcat 8.5.94
+
 **Framework**: Bootstrap 4.0
+
 **Libraries**: JavaMail 1.4.7, JavaBeans Activation Framework 1.1, Popper 1.12.9, jQuery 3.7.1
+
 > As of May 30, 2022, Google has discontinued the `Allow less secure apps` setting used for SMTP verification. Instead, we must generate an **App password**:
 > 1. Manage your Google Account
 > 2. Security
