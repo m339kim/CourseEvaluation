@@ -2,7 +2,7 @@
 ## Overview
 In many universities, students evaluate their courses at the end of the semester, but they cannot share their feedback with each other, limiting their insight when choosing future courses. 
 
-This website lets you develop a versatile course evaluation website applicable in any educational setting, allowing shared course insights!
+This website lets you evaluate your course in any educational setting, allowing shared course insights.
 
 ## Setup
 **IDE**: Eclipse EE
